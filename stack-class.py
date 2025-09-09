@@ -1,0 +1,1 @@
+#define Stack class with push, pop, is_empty
